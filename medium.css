@@ -1,0 +1,30 @@
+#main{
+	width: 68%;
+	height: 500px;
+	min-width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 100px;
+}
+
+img{
+	float: left;
+	clear: right;
+	margin-left: 80px;
+	width: 198px;
+	height: 250px;
+	transition:width 1s;
+}
+
+img:hover {
+	width:220px;
+}
+body{
+	background-attachment:fixed;
+	background-position:center; 
+}
+
+h1{
+	margin-left: 30%;
+	margin-top: -80px;
+}
